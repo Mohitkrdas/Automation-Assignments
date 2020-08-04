@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 /**
  * 
- * @author Rajasekar
+ * @author Mohit
  * 
  * This class is used to get data from property file
  *
