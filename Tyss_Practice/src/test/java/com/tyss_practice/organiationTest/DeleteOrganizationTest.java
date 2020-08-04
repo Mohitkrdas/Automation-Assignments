@@ -14,7 +14,7 @@ import com.tyss_practice.genericUtils.PropertyFileLib;
 import com.tyss_practice.genericUtils.WebDriverUtils;
 /**
  * 
- * @author Rajasekar
+ * @author Mohit
  * 
  * This class is used for Delete An Organization from Organization page
  *
